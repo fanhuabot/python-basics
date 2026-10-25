@@ -1,4 +1,4 @@
-# Python 学习记录 · python-basics
+# Python 学习记录
 
 从零开始学 Python 的练习仓库，按 24 周学习路线推进，每周的代码和笔记都放在这里。
 
@@ -19,7 +19,7 @@
 ## 目录结构
 
 ```
-python-basics/
+f1/
 ├── week01/          # 第 1 周：环境与基础语法
 │   └── hello.py
 ├── week02/          # 第 2 周：容器与函数
